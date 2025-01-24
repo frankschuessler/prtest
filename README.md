@@ -1,2 +1,2 @@
 # prtest
-A simple github testeing repo
+A simple github testing repo
